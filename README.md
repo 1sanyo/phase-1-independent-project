@@ -9,3 +9,5 @@ A web browser such as [Google Chrome](https://www.google.com/chrome/)
 
 [Visual Studio Code](https://code.visualstudio.com/) - The text editor used for programming
  [Google Chrome](https://www.google.com/chrome/) - The browser used to view the website
+
+ * **sanyo adonai** - *Sole Programmer* - [git@github.com:1sanyo/phase-1-independent-project.git# project-1
