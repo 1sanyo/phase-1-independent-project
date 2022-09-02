@@ -46,3 +46,37 @@ h3{
     margin: 0px 325px 0px 325px;
     padding: 20px 0px;
 }
+
+.logo {
+	width: 75px;
+	display: inline-block;
+}
+
+.navbar {
+    text-align: center;
+    height: 80px;
+    text-decoration: none;
+    color: #fff;
+}
+
+ul{
+    text-decoration: none;
+    color: #fff;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    margin: 1rem;
+}
+
+li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+li a:hover{
+    color: var(--grey);
+}
