@@ -100,3 +100,13 @@ li a:hover{
     padding: 0;
     background-color: var(--background);
 }
+
+.product-container{
+    margin-left: 23%;
+    margin-right: 23%;
+    display:grid;
+    grid-template-columns: 350px 350px;
+    grid-row: auto auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
