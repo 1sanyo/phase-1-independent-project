@@ -110,3 +110,16 @@ li a:hover{
     grid-column-gap: 20px;
     grid-row-gap: 20px;
 }
+
+.card{
+    background-color: var(--grey);
+    min-height: 350px;
+    width: 350px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: var(--shadow);
+}
+
+.shoe-img{
+    border-radius: 5px;
+}
