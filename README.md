@@ -6,3 +6,6 @@ To get a copy of the website download the repository as a zip file and extract i
 
 A text editor for example [Visual Studio Code](https://code.visualstudio.com/)
 A web browser such as [Google Chrome](https://www.google.com/chrome/)
+
+[Visual Studio Code](https://code.visualstudio.com/) - The text editor used for programming
+ [Google Chrome](https://www.google.com/chrome/) - The browser used to view the website
