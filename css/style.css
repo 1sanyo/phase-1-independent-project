@@ -1,0 +1,8 @@
+:root{
+    --headers: #202125;
+    --background:  #4d4d4d;
+    --grey: #858585;
+    --lightgrey: #d2d2d2;
+    --shadow: 0 1px 5px rgba(0, 0, 0, 0.473);
+    --hover: 0 3px 10px rgba(0, 0, 0, 0.205);
+}
