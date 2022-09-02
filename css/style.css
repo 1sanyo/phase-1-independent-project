@@ -6,3 +6,43 @@
     --shadow: 0 1px 5px rgba(0, 0, 0, 0.473);
     --hover: 0 3px 10px rgba(0, 0, 0, 0.205);
 }
+
+body{
+    background-color: var(--background);
+    background: url(../img/NMD-Black-Cover.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: top;
+    background-origin: border-box;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+    background-color: var(--lightgrey);
+    font-family: 'Roboto Mono', monospace;
+    color: black;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    border: none;
+    margin: 0px 10px 10px 10px;
+    transition-duration: 0.4s;
+}
+
+.btn:hover{
+    box-shadow: var(--shadow);
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+h3{
+    font-family: 'Roboto Mono', monospace;
+    color: var(--headers);
+    margin: 0px 325px 0px 325px;
+    padding: 20px 0px;
+}
