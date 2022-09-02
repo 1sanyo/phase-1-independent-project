@@ -94,3 +94,9 @@ li a:hover{
     color: #fff;
     padding: 30px 0;
 }
+
+.background-container{
+    margin: 0;
+    padding: 0;
+    background-color: var(--background);
+}
