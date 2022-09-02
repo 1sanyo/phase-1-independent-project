@@ -80,3 +80,9 @@ li a{
 li a:hover{
     color: var(--grey);
 }
+
+.banner{
+    position: 0px;
+    min-height: 475px;
+    text-align: center;
+}
