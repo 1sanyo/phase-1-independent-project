@@ -123,3 +123,31 @@ li a:hover{
 .shoe-img{
     border-radius: 5px;
 }
+
+.card h4{
+    margin: 20px 10px 15px 15px;
+}
+
+.card .btn{
+    margin: 0px 0px 10px 15px;
+}
+
+.product1{
+    background: url(../img/Airmax-90.jpg);
+    min-height: 250px;
+}
+
+.product2{
+    background: url(../img/Ultraboost.jpg);
+    min-height: 250px;
+}
+
+.product3{
+    background: url(../img/Airmax-97.jpg);
+    min-height: 250px;
+}
+
+.product4{
+    background: url(../img/NMD-R1.jpg);
+    min-height: 250px;
+}
