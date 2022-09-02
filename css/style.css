@@ -221,3 +221,10 @@ footer{
     overflow: hidden;
     background-color: var(--grey);
 }
+
+footer p{
+    font-family: 'Roboto Mono', monospace;
+    color: var(--lightgrey);
+    font-size: 14px;
+    padding: 25px;
+}
