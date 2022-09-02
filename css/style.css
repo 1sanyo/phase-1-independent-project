@@ -151,3 +151,20 @@ li a:hover{
     background: url(../img/NMD-R1.jpg);
     min-height: 250px;
 }
+
+.about{
+    min-height: 200px;
+    margin: 50px 0px 50px 0px;
+    padding: 25px 50px;
+    background-color: var(--lightgrey);
+    text-align: center;
+}
+
+.about h2{
+    font-size: 32px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.about p{
+    font-size: 20px;
+}
